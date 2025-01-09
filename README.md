@@ -9,6 +9,7 @@ jupyter notebook --port=8080 --ip=0.0.0.0 --NotebookApp.token=''
 > [!TIP]  
 > - ##### Для задания 8, 9 можно использовать - https://www.wolframalpha.com/input?i=Interpolating+polynomial+{3,3},{4,2},{-1,1},{-2,-5} подставив свои значения
 > ##### Это обеспечит дополнительные два балла к тесту
+
 > [!TIP]  
 > - ##### UPD: 8, 9 можно выполнить в wolfram - test1-q8_9_solver.nb 
 ### *Точность 2-го теста 10/10 100%*
